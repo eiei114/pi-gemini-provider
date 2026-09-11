@@ -60,11 +60,11 @@
     "typebox": "*"
   },
   "devDependencies": {
-    "@earendil-works/pi-ai": "latest",
-    "@earendil-works/pi-coding-agent": "latest",
-    "@earendil-works/pi-tui": "latest",
-    "typebox": "latest",
+    "@earendil-works/pi-ai": "^0.79.1",
+    "@earendil-works/pi-coding-agent": "^0.79.1",
+    "@earendil-works/pi-tui": "^0.79.1",
     "@types/node": "^25.9.3",
+    "typebox": "^1.2.8",
     "typescript": "^6.0.3"
   }
 }
